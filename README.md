@@ -1,3 +1,9 @@
+👤 Developed By
+
+Sonu Kumar
+AI/ML & Data Analytics
+GitHub: https://github.com/sonu-analytics
+
 # LiaPlus - Sentiment Chatbot (Sonu)
 
 It is a simple sentiment-based chatbot built using HuggingFace Transformer model.  
